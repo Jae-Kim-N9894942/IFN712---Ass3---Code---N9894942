@@ -23,5 +23,5 @@ The embeddings, lists, dataset and code can be downloaded from this link.
 ## Contact
 ---------------------------------------------------------------------------------------------------------------
 Please contact Jae Hyun Kim
-email: n9894942@qut.edu.au
-email: john.kim77@hotmail.com
+- email: n9894942@qut.edu.au
+- email: john.kim77@hotmail.com
