@@ -10,7 +10,7 @@ Anaconda Navigator - Jupyter Notebook
 ## Donwloading
 The embeddings, lists, dataset and code can be downloaded from this link: [IFN712_Ass3](https://drive.google.com/drive/folders/1h6s2L2lTRNft_H6slAgB5fxMBrlFdqX5?usp=drive_link)
 
-- 'data' will contain all the embeddings and lists which are necessary.
+- 'Embeddings and Lists' will contain all the embeddings and lists which are necessary.
 - 'Dataset" will contain the structured dataset which is utilized in experiment 2 for LLM. Available on GitHub.
 - 'Code' will contain all the code which was utilized: Available on GitHub.
   - The "GN-GloVe - Experiment 1" contains the GN-GloVe topk, cosine similarity and Euclidean distance code.
