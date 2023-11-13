@@ -13,7 +13,15 @@ Python Version - 3.11.4
 ---------------------------------------------------------------------------------------------------------------
 The embeddings, lists, dataset and code can be downloaded from this link.
 
-'data' will contain all the embeddings and lists which are necessary.
-'Dataset" will contain the structured dataset which is utilized in experiment 2 for LLM.
-'Code' will contain all the code which was utilized:
+- 'data' will contain all the embeddings and lists which are necessary.
+- 'Dataset" will contain the structured dataset which is utilized in experiment 2 for LLM.
+- 'Code' will contain all the code which was utilized:
+  - The "GN-GloVe - Experiment 1" contains the GN-GloVe topk, cosine similarity and Euclidean distance code.
+  - The "Hard Debiased - Experiment 1" contains the Hard Debiased topk, cosine similarity and Euclidean distance code.
+  - The "LLM - Experiment" contains the Hard Debiased Euclidean distance code and the GN-GloVe Cosine similarity and Euclidean distance implemented within the DistilBERT model.
 
+## Contact
+---------------------------------------------------------------------------------------------------------------
+Please contact Jae Hyun Kim
+email: n9894942@qut.edu.au
+email: john.kim77@hotmail.com
