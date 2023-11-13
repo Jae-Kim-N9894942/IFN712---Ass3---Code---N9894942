@@ -8,7 +8,7 @@ Anaconda Navigator - Jupyter Notebook
 #### Python Version - 3.11.4
 
 ## Donwloading
-The embeddings, lists, dataset and code can be downloaded from this link: [IFN_712_Ass3(https://drive.google.com/drive/folders/1h6s2L2lTRNft_H6slAgB5fxMBrlFdqX5?usp=drive_link)
+The embeddings, lists, dataset and code can be downloaded from this link: [IFN_712_Ass3 (https://drive.google.com/drive/folders/1h6s2L2lTRNft_H6slAgB5fxMBrlFdqX5?usp=drive_link)
 
 - 'data' will contain all the embeddings and lists which are necessary.
 - 'Dataset" will contain the structured dataset which is utilized in experiment 2 for LLM. Available on GitHub.
